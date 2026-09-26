@@ -1,0 +1,12 @@
+{
+    "recognition_threshold": 0.6,
+    "camera_index": "http://10.239.109.116:4747/video",
+    "camera_resolution": "640x480",
+    "capture_count": 47,
+    "dataset_dir": "C:\\Users\\PGHS\\StudioProjects\\Attendance\\dataset",
+    "attendance_dir": "C:\\Users\\PGHS\\StudioProjects\\Attendance\\attendance",
+    "models_dir": "C:\\Users\\PGHS\\StudioProjects\\Attendance\\models",
+    "database_path": "C:\\Users\\PGHS\\StudioProjects\\Attendance\\attendance.db",
+    "encodings_path": "C:\\Users\\PGHS\\StudioProjects\\Attendance\\encodings_arcface.pkl",
+    "theme": "light"
+}

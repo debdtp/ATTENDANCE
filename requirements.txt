@@ -1,0 +1,9 @@
+pyqt6>=6.4.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+insightface>=1.0.1
+onnxruntime>=1.16.0
+numpy>=1.23.0
+pandas>=1.4.0
+pillow>=10.0.0
+openpyxl>=3.1.0

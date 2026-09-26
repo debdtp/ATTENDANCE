@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/attendance/
+/dataset/
+/models/
+/scratch/
+/templates/
